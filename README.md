@@ -1,6 +1,6 @@
 # Modelo Estrella con Llaves Surrogadas - Caso Universidad
 
-- **Estudiante:** [Tu Nombre Completo]
+- **Estudiantes:** Jonathan Naranjo y Emilio Aguilera
 - **SGBD:** PostgreSQL / pgAdmin 4
 
 ## Estructura del Repositorio
